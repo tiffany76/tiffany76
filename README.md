@@ -1,10 +1,12 @@
 ### Hi 👋
 
-I'm a technical writer at Grafana Labs. 
+✍️ I'm a technical writer at Grafana Labs.
 
-- 🚀 I'm also a member of the [OpenTelemetry](https://github.com/open-telemetry) organization and an approver in its [Communications SIG](https://github.com/open-telemetry/opentelemetry.io).
-- 📚 I was a librarian and information analyst for 15 years before I changed careers. I'll always be a librarian at ❤️.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiffany-hrabusa/).
+🔭 I'm a member of the [OpenTelemetry](https://github.com/open-telemetry) organization and an approver in its [Communications SIG](https://github.com/open-telemetry/opentelemetry.io).
+
+📚 I was a librarian and information analyst for 15 years before I changed careers. I'll always be a librarian at ❤️.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiffany-hrabusa/).
 
 <!--
 **tiffany76/tiffany76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
