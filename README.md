@@ -2,7 +2,7 @@
 
 ✍️ I'm a technical writer at Grafana Labs.
 
-🔭 I'm a member of the [OpenTelemetry](https://github.com/open-telemetry) organization and an approver in its [Communications SIG](https://github.com/open-telemetry/opentelemetry.io).
+🔭 I'm a member of the [OpenTelemetry](https://github.com/open-telemetry) organization and a maintainer in its [Communications SIG](https://github.com/open-telemetry/opentelemetry.io).
 
 📚 I was a librarian and information analyst for 15 years before I changed careers. I'll always be a librarian at ❤️.
 
